@@ -20,6 +20,8 @@ public class operaciones {
        System.out.println("Ingresa el segundo numero");
        numero2 = leer.nextInt();
    }
+   
+   
    public void sumar(){
         suma = numero1 + numero2;
        
