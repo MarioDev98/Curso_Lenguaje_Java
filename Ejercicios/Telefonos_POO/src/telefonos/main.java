@@ -8,5 +8,6 @@ public class main {
         telefono1.marca_modelo();
         telefono1.precio();
         telefono1.resultados();
+        
     }
 }

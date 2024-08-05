@@ -20,6 +20,7 @@ public class telefonos {
    
     public void precio(){
        precio = Integer.parseInt(JOptionPane.showInputDialog(null,"Ingresa el precio del telefono"));
+//       precio = Integer.parseInt(JOptionPane.showInputDialog(null,"Ingresa el precio del telefono"));
 //       JOptionPane.showMessageDialog(null, "El precio del celular es " + precio);
     }
     

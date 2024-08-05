@@ -19,7 +19,10 @@ public class Ejercicios_Java {
 //       Ejercicio14_DiasDeLaSemana.Ejercicio14_DiasDeLaSemana();
 
 //Ejercicio15_JOption.Ejercicio15_JOption();
-Ejercicio16_Arreglos.Ejercicio16_Arreglos();
+//Ejercicio16_Arreglos.Ejercicio16_Arreglos();
+
+Arreglos.arreglos2();
     }
+    
     
 }
